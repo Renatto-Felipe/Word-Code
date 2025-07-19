@@ -1,5 +1,5 @@
-from word_code import ramdomize
-
+from jogo import *
+from pontos_arquivos import salvar_palavra
 
 def teste():
     print("batata")
@@ -17,11 +17,12 @@ def menu ():
     
     match opcao:
         case 1:
-           ramdomize()
+           jogo_facil()
         case 2:
-            print("abobra")
+            print("ainda nao disponivel")
+        case 3:
+            print("ainda nao disponivel")
+        case 4:
+            salvar_palavra()
  
-     
-    
-    
 menu()
