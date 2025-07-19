@@ -14,11 +14,10 @@ Um jogo interativo que desafia sua memória associando palavras a códigos numé
 - **Difícil**: 3 palavras , cada número representa uma letra da palavra!
 
 ##  Banco de Palavras
-As palavras ficam salvas no arquivo `banco_de_palavras.txt` e podem ser personalizadas pelo jogador.
+As palavras e pontos ficam salvas no arquivo `banco_de_palavras.txt` e podem ser personalizadas pelo jogador.
 
 ##  Em desenvolvimento
-- Sistema de pontuação
-- Mais modos de jogo
+- logica principal do game baseada nos modos
 
 ## Qualquer colaboração é bem vinda.
 
