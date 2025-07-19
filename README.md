@@ -20,5 +20,7 @@ As palavras ficam salvas no arquivo `banco_de_palavras.txt` e podem ser personal
 - Sistema de pontuação
 - Mais modos de jogo
 
+## Qualquer colaboração é bem vinda.
+
 ##  Autor
 Renatto Felipe
