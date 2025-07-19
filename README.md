@@ -10,8 +10,8 @@ Um jogo interativo que desafia sua memória associando palavras a códigos numé
 
 ##  Modos de jogo
 - **Fácil**: 3 palavras, 6 rodadas.
-- **Médio**: 6 palavras.
-- **Difícil**: Cada número representa uma letra da palavra!
+- **Médio**: 6 palavras, 6 rodadas
+- **Difícil**: 3 palavras , cada número representa uma letra da palavra!
 
 ##  Banco de Palavras
 As palavras ficam salvas no arquivo `banco_de_palavras.txt` e podem ser personalizadas pelo jogador.
