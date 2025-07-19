@@ -1,4 +1,4 @@
-# Word-Code # Word-Code 🎮
+# Word-Code 
 
 Um jogo interativo que desafia sua memória associando palavras a códigos numéricos.
 
