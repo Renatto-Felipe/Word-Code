@@ -19,7 +19,6 @@ As palavras ficam salvas no arquivo `banco_de_palavras.txt` e podem ser personal
 ## 🧪 Em desenvolvimento
 - Sistema de pontuação
 - Mais modos de jogo
-- Interface gráfica futuramente?
 
 ## 🧑‍💻 Autor
 Renatto Felipe
